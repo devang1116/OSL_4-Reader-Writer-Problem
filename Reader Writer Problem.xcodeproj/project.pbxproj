@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DB14E691270461F100005F20 /* Reader Writer Problem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Reader Writer Problem"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DB14E694270461F100005F20 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		DB14E694270461F100005F20 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
